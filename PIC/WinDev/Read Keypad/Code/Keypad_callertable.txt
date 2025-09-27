@@ -1,0 +1,16 @@
+main
+	__CC2DW
+		____DoICP
+	UART1_Init
+	UART1_Write_Text
+		UART1_Write
+	UART1_Write
+	Keypad_Init
+	UART1_Data_Ready
+	UART1_Read
+	get_key
+		Keypad_Key_Click
+			Keypad_Key_Press
+				Delay_1us
+			Delay_10us
+		UART1_Write

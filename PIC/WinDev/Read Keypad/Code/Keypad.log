@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\aala\Desktop\Uart_Keypad\Keypad.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\aala\Desktop\Uart_Keypad\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Keypad.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Keypad4x4.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Keypad.c
+warning: 37	1503	Result is not defined in function: 'get_key'	Keypad.c
+warning: 41	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	Keypad.c
+diagnostics: 54	123	Compiled Successfully	Keypad.c
+diagnostics: 0	127	All files Compiled in 531 ms	 
+hint: 0	1144	Used RAM (bytes): 27 (8%)  Free RAM (bytes): 325 (92%)	Used RAM (bytes): 27 (8%)  Free RAM (bytes): 325 (92%)
+hint: 0	1144	Used ROM (program words): 442 (5%)  Free ROM (program words): 7750 (95%)	Used ROM (program words): 442 (5%)  Free ROM (program words): 7750 (95%)
+diagnostics: 0	125	Project Linked Successfully	Keypad.mcppi
+diagnostics: 0	128	Linked in 453 ms	 
+diagnostics: 0	129	Project 'Keypad.mcppi' completed: 1343 ms	 
+diagnostics: 0	103	Finished successfully: 13 sept. 2020, 14:13:56	Keypad.mcppi
