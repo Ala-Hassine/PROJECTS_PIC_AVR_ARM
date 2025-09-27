@@ -1,0 +1,20 @@
+C:\Users\ala\Downloads\Température\Température\bin\Debug\Température.exe.config
+C:\Users\ala\Downloads\Température\Température\bin\Debug\Température.exe
+C:\Users\ala\Downloads\Température\Température\bin\Debug\Température.pdb
+C:\Users\ala\Downloads\Température\Température\obj\Debug\Température.csprojResolveAssemblyReference.cache
+C:\Users\ala\Downloads\Température\Température\obj\Debug\Température.Form1.resources
+C:\Users\ala\Downloads\Température\Température\obj\Debug\Température.Properties.Resources.resources
+C:\Users\ala\Downloads\Température\Température\obj\Debug\Température.csproj.GenerateResource.Cache
+C:\Users\ala\Downloads\Température\Température\obj\Debug\Température.exe
+C:\Users\ala\Downloads\Température\Température\obj\Debug\Température.pdb
+C:\Users\ala\Downloads\Température\Température\bin\Debug\AGauge.dll
+C:\Users\ala\Downloads\Température\Température\bin\Debug\LibLED.dll
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\bin\Debug\Température.exe.config
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\obj\Debug\Température.exe
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\obj\Debug\Température.pdb
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\bin\Debug\Température.exe
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\bin\Debug\Température.pdb
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\obj\Debug\Température.csprojResolveAssemblyReference.cache
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\obj\Debug\Température.Form1.resources
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\obj\Debug\Température.Properties.Resources.resources
+C:\Users\aala\Desktop\Projects\Read and Save Température Via PIC16F877A and C#\Code C#\Température\obj\Debug\Température.csproj.GenerateResource.Cache
