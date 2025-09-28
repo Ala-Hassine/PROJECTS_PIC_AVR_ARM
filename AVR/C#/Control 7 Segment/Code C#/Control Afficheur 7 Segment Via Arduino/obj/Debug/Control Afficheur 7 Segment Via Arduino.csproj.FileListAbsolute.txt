@@ -1,0 +1,19 @@
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\bin\Debug\Control Afficheur 7 Segment Via Arduino.exe.config
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\bin\Debug\Control Afficheur 7 Segment Via Arduino.exe
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\bin\Debug\Control Afficheur 7 Segment Via Arduino.pdb
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\bin\Debug\LibLED7Segment.dll
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control_Afficheur_7_Segment_Via_Arduino.Form1.resources
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control_Afficheur_7_Segment_Via_Arduino.Properties.Resources.resources
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.csproj.GenerateResource.Cache
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.exe
+C:\Users\Ala Hassine\Desktop\Control Afficheur 7 Segment Via Arduino\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.pdb
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\bin\Debug\Control Afficheur 7 Segment Via Arduino.exe.config
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.exe
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.pdb
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\bin\Debug\Control Afficheur 7 Segment Via Arduino.exe
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\bin\Debug\Control Afficheur 7 Segment Via Arduino.pdb
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.csprojResolveAssemblyReference.cache
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control_Afficheur_7_Segment_Via_Arduino.Form1.resources
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control_Afficheur_7_Segment_Via_Arduino.Properties.Resources.resources
+C:\Users\aala\Desktop\Projects\Control Afficheur 7 Segment Via Arduino et C#\Code C#\Control Afficheur 7 Segment Via Arduino\obj\Debug\Control Afficheur 7 Segment Via Arduino.csproj.GenerateResource.Cache
