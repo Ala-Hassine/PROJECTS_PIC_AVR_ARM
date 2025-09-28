@@ -1,0 +1,28 @@
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\bin\Debug\Control Servo.exe.config
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\bin\Debug\Control Servo.exe
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\bin\Debug\Control Servo.pdb
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\obj\Debug\Control Servo.csprojResolveAssemblyReference.cache
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\obj\Debug\Control_Servo.Form1.resources
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\obj\Debug\Control_Servo.Properties.Resources.resources
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\obj\Debug\Control Servo.csproj.GenerateResource.Cache
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\obj\Debug\Control Servo.exe
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\obj\Debug\Control Servo.pdb
+C:\Users\Ala Hassine\Desktop\Control Servo\Control Servo\bin\Debug\AGauge.dll
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\bin\Debug\Control Servo.exe.config
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.exe
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.pdb
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\bin\Debug\Control Servo.exe
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\bin\Debug\Control Servo.pdb
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.csprojResolveAssemblyReference.cache
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control_Servo.Form1.resources
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control_Servo.Properties.Resources.resources
+C:\Users\aala\Desktop\Projects\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.csproj.GenerateResource.Cache
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\bin\Debug\Control Servo.exe.config
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.exe
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.pdb
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\bin\Debug\Control Servo.exe
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\bin\Debug\Control Servo.pdb
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.csprojResolveAssemblyReference.cache
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control_Servo.Form1.resources
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control_Servo.Properties.Resources.resources
+C:\Users\aala\Desktop\Control Servo Motor Via Arduino et C#\Code C#\Control Servo\obj\Debug\Control Servo.csproj.GenerateResource.Cache
