@@ -1,0 +1,9 @@
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\bin\Debug\Read ADC.exe
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\bin\Debug\Read ADC.pdb
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\bin\Debug\AGauge.dll
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\obj\Debug\Read ADC.csprojResolveAssemblyReference.cache
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\obj\Debug\Read_ADC.Form1.resources
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\obj\Debug\Read_ADC.Properties.Resources.resources
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\obj\Debug\Read ADC.csproj.GenerateResource.Cache
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\obj\Debug\Read ADC.exe
+c:\users\aala\documents\visual studio 2015\Projects\Read ADC\Read ADC\obj\Debug\Read ADC.pdb
