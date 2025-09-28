@@ -1,4 +1,3 @@
-
 ////////////// Déclaration de LCD //////////////
 sbit LCD_RS at RC0_bit;
 sbit LCD_EN at RC1_bit;
@@ -28,17 +27,22 @@ void main()
     delay_ms(2000);
     LCD_Cmd(_LCD_CLEAR); // Clear display
     
-    while (1) {
-        if (UART1_Data_Ready()) { // if data is received
+    while (1) 
+    {
+        if (UART1_Data_Ready()) 
+        { 
+        // if data is received
         ala = UART1_Read();
-        if (ala == 'A') { // if recieve CR
-           LCD_Cmd(_LCD_CLEAR);              //clear LCD
-           LCD_Cmd(_LCD_RETURN_HOME);        //Return Home
-         }
-         else
-         {
-         LCD_Chr_Cp(ala); //write data to lcd
-         }
+        if (ala == 'A') 
+        { 
+        // if recieve CR
+            LCD_Cmd(_LCD_CLEAR);              //clear LCD
+            LCD_Cmd(_LCD_RETURN_HOME);        //Return Home
+        }
+        else
+        {
+            LCD_Chr_Cp(ala); //write data to lcd
+        }
       }
     }
 }
