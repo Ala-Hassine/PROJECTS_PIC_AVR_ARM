@@ -1,0 +1,8 @@
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\bin\Debug\Shift_74HC595.exe
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\bin\Debug\Shift_74HC595.pdb
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\obj\Debug\Shift_74HC595.csprojResolveAssemblyReference.cache
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\obj\Debug\Shift_74HC595.frmMain.resources
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\obj\Debug\Shift_74HC595.Properties.Resources.resources
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\obj\Debug\Shift_74HC595.csproj.GenerateResource.Cache
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\obj\Debug\Shift_74HC595.exe
+C:\Users\aala\Desktop\Company\Shift_74HC595\Shift_74HC595\obj\Debug\Shift_74HC595.pdb
